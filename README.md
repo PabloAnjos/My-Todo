@@ -1,8 +1,23 @@
-# React + Vite
+## Descrição
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> My todo é uma aplicação web que permite aos usuários organizar suas tarefas diárias, colocando elas em uma lista e removendo ao estarem concluída.
 
-Currently, two official plugins are available:
+## Tecnologias Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<table>
+  <tr>
+    <td>HTML</td>
+    <td>CSS</td>
+    <td>Javascript</td>
+    <td>React</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>3</td>
+    <td>ECMAScript 2023</td>
+  </tr>
+</table>
+
+## Desenvolvido por: 
+
+- Pablo Anjos
